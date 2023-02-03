@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,107 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Senior Researcher at the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of [INESC TEC](https://www.inesctec.pt) and [University of Minho](http://www.uminho.pt), and an Associate Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My work focuses on **dependable distributed systems**. I am interested mainly in **data management**, including storage systems, database replication, polyglot system and polystores, and in **group communication**, including consensus and gossip-based protocols for large-scale systems. I am also interested in tools for testing, evaluating, and monitoring distributed systems.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## News
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- *28/01/2023*  Our paper "Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control" has been accepted at [CCGRID'2023](https://ccgrid2023.iisc.ac.in/).
+- *20/01/2023*  Congratulations to [Ricardo Macedo](https://rgmacedo.github.io/)!
+- *23/08/2022*  Our paper "MRV: Enforcing Numeric Invariants in Parallel Updates to Hotspots with Randomized Splitting" has been accepted at [ACM SIGMOD'2023](https://2023.sigmod.org/index.shtml).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Current projects
 
-**Markdown generator**
+- [AIDA: Adaptive, Intelligent and Distributed Assurance Platform](https://aida.inesctec.pt/)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+All [past projects](/projects/).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Selected publications
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<ul>
+<li>N. Faria,
+  J. Pereira, A. Alonso, and
+  R. Vilaça.
+Towards generic fine-grained transaction isolation in polystores.
+In <cite>Heterogeneous Data Management, Polystores, and Analytics for
+  Healthcare (VLDB Ws. post-proceedings)</cite>. Springer International
+  Publishing, 2022.
+(<a href="http://dx.doi.org/10.1007/978-3-030-93663-1_3">doi:10.1007/978-3-030-93663-1_3</a>)</li>
+<li>R. Macedo,
+  Y. Tanimura, J. Haga,
+  V. Chidambaram, J. Pereira, and
+  J. Paulo.
+<a href="https://www.usenix.org/conference/fast22/presentation/macedo">PAIO:
+  General, portable I/O optimizations with minor application
+  modifications</a>.
+In <cite>20th USENIX Conference on File and Storage Technologies (FAST
+  22)</cite>, pages 413–428, Santa Clara, CA, February 2022. USENIX
+  Association.</li>
+<li>
+F. Neves,
+  N. Machado, R. Vilaça, and
+  J. Pereira.
+Horus: Non-intrusive causal analysis of distributed systems logs.
+In <cite>2021 51st Annual IEEE/IFIP International Conference on Dependable
+  Systems and Networks (DSN)</cite>, pages 212–223, 2021.
+(<a href="http://dx.doi.org/10.1109/DSN48987.2021.00035">doi:10.1109/DSN48987.2021.00035</a>)
+</li>
+<li>R. Macedo,
+  J. Paulo, J. Pereira, and
+  A. Bessani.
+A survey and classification of software-defined storage systems.
+<cite>ACM Computing Surveys</cite>, 2020.
+(<a href="http://dx.doi.org/10.1145/3385896">doi:10.1145/3385896</a>)</li>
+<li>
+B. Kolev,
+  P. Valduriez, C. Bondiombouy,
+  R. Jiménez-Peris, R. Pau, and
+  J. Pereira.
+CloudMdsQL: querying heterogeneous cloud data stores with a common language.
+<cite>Springer Distributed and Parallel Databases</cite>, pages 1–41, 2016.
+(<a href="http://dx.doi.org/10.1007/s10619-015-7185-y">doi:10.1007/s10619-015-7185-y</a>)
+</li>
+<li>
+J. Leitão,
+  J. Pereira, and L. Rodrigues.
+Epidemic broadcast trees.
+In <cite>IEEE International Symposium On Reliable Distributed Systems</cite>,
+  pages 301–310. IEEE Computer Society, 2007.
+<!-- PDF: pdfs/LPR07a.pdf -->
+(<a href="http://dx.doi.org/10.1109/SRDS.2007.27">doi:10.1109/SRDS.2007.27</a>)
+</li>
+<li>
+J. Leitão,
+  J. Pereira, and L. Rodrigues.
+HyParView: A membership protocol for reliable gossip-based broadcast.
+In <cite>IEEE/IFIP International Conference on Dependable Systems and
+  Networks</cite>, pages 419–428. IEEE Computer Society, 2007.
+<!-- PDF: pdfs/LPR07b.pdf -->
+(<a href="http://dx.doi.org/10.1109/DSN.2007.56">doi:10.1109/DSN.2007.56</a>)
+</li>
+</ul>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+All [publications](/publications/).
+
+## Teaching
+
+- [Distributed Systems](https://www4.di.uminho.pt/~jno/sitedi/uc_J305N4.html) (BSc)
+- [Large Scale Distributed Systems](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800006546.html) (MSc)
+- [Distributed Systems Paradigms](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800005182.html) (MSc)
+- [Database Administration](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800005544.html) (MSc)
+
+## Recent service
+
+<ul>
+<li><a href="https://webdiis.unizar.es/EDCC22/">EDCC 2022</a>: 18th European Dependable Computing Conference (Student Forum PC)</li>
+<li><a href="https://ladc.sbc.org.br/">LADC 2022</a>: 11th Latin-American Symp. on Dependable Computing (PC Co-Chair)</li>
+<li><a href="https://issre2022.github.io/">ISSRE 2022</a>: 33rd International Symp. on Software Reliability Engineering (PC)</li>
+<li><a href="https://srds-conference.org/">SRDS 2022</a>: 41st International Symp. on Reliable Distributed Systems (PhD Forum Co-Chair)</li>
+<li><a href="https://dsn2022.github.io/">DSN 2022</a>: 52nd IEEE/IFIP International Conf. on Dependable Systems and Networks (PC)</li>
+<li><a href="https://www.discotec.org/2022/dais">DAIS with DISCOTEC 2022</a>: 22nd International Conf. on Distributed Applications and Interoperable Systems (PC)</li>
+<li><a href="https://www.dedisys.org/sac22/">ACM SAC DADS 2022</a>: 37th ACM SAC Dependable and Adaptive Distributed Systems Track (PC)</li>
+</ul>
+
+All [past service](/service/).
