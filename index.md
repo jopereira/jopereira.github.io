@@ -1,3 +1,0 @@
-# José Orlando Pereira
-
-I am a researcher at HASLab and professor at the U. Minho. My research focuses on **dependable distributed systems**. I am interested mainly in data management, including database replication and SQL processing over NoSQL systems, and in group communication, including consensus and gossip-based protocols for large-scale systems. I am also interested in tools for testing, evaluating, and monitoring distributed systems.
