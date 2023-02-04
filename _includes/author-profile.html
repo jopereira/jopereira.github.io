@@ -20,7 +20,7 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
+    <button class="btn btn--inverse">Contacts</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
@@ -124,12 +124,7 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
-    </ul>
-  </div>
-
-  <div>
-    <p>
-      <p><a href="https://inesctec.pt"><img alt="INESCTEC" src="/images/inesctec.png"/></a></p>
-      <a href="https://www.uminho.pt"><img style="width:120px;height:auto;" alt="University of Minho" src="/images/um.jpg"/></a></p>
+      <li><a href="https://inesctec.pt"><img alt="INESCTEC" src="/images/inesctec.png"/></a></li>
+      <li></li><a href="https://www.uminho.pt"><img style="width:120px;height:auto;" alt="University of Minho" src="/images/um.jpg"/></a></li>
   </div>
 </div>
