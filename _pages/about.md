@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Researcher at the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of [INESC TEC](https://www.inesctec.pt) and [University of Minho](http://www.uminho.pt), and an Associate Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt).
+I am a Senior Researcher at the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of [INESC&nbsp;TEC](https://www.inesctec.pt) and [University of Minho](http://www.uminho.pt), and an Associate Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt).
 
 My work focuses on **dependable distributed systems**. I am interested mainly in **data management**, including storage systems, database replication, polyglot system and polystores, and in **group communication**, including consensus and gossip-based protocols for large-scale systems. I am also interested in tools for testing, evaluating, and monitoring distributed systems.
 
