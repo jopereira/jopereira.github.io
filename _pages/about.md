@@ -14,10 +14,10 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 
 ## News
 
-- *28/01/2023*  Our paper "Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control" has been accepted at [CCGRID'2023](https://ccgrid2023.iisc.ac.in/).
-- *20/01/2023*  Congratulations to [Ricardo Macedo](https://rgmacedo.github.io/)!
-- *23/08/2022*  Our paper "MRV: Enforcing Numeric Invariants in Parallel Updates to Hotspots with Randomized Splitting" has been accepted at [ACM SIGMOD'2023](https://2023.sigmod.org/index.shtml).
+- *17/04/2024*  Our paper "TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads" has been accepted at [VLDB'2023](https://vldb.org/2023/).
+- *12/04/2023*  Our paper "An Experimental Evaluation of Tools for Grading Concurrent Programming Exercises" has been accepted at [DisCoTec / FORTE'2023](http://www.discotec.org/2023/forte.html).
 
+All [news](/news/).
 
 ## Current projects
 
@@ -28,14 +28,14 @@ All [past projects](/projects/).
 ## Selected publications
 
 <ul>
-<li>N. Faria,
-  J. Pereira, A. Alonso, and
-  R. Vilaça.
-Towards generic fine-grained transaction isolation in polystores.
-In <cite>Heterogeneous Data Management, Polystores, and Analytics for
-  Healthcare (VLDB Ws. post-proceedings)</cite>. Springer International
-  Publishing, 2022.
-(<a href="http://dx.doi.org/10.1007/978-3-030-93663-1_3">doi:10.1007/978-3-030-93663-1_3</a>)</li>
+<li>
+N. Faria and
+  J. Pereira.
+MRVs: Enforcing numeric invariants in parallel updates to hotspots with
+  randomized splitting.
+<cite>Proc. ACM Manag. Data (SIGMOD)</cite>, 1(1), 2023.
+(<a href="http://dx.doi.org/10.1145/3588723">doi:10.1145/3588723</a>)
+</li>
 <li>R. Macedo,
   Y. Tanimura, J. Haga,
   V. Chidambaram, J. Pereira, and
