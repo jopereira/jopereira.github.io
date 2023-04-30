@@ -15,6 +15,7 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 ## News
 
 - *17/04/2024*  Our paper "TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads" has been accepted at [VLDB'2023](https://vldb.org/2023/).
+- *12/04/2023*  Our paper "TADA: A Toolkit for Approximate Distributed Agreement" has been accepted at [DisCoTec / DAIS'2023](http://www.discotec.org/2023/dais.html).
 - *12/04/2023*  Our paper "An Experimental Evaluation of Tools for Grading Concurrent Programming Exercises" has been accepted at [DisCoTec / FORTE'2023](http://www.discotec.org/2023/forte.html).
 
 All [news](/news/).
