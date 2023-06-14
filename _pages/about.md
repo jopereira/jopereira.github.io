@@ -30,6 +30,12 @@ All [past projects](/projects/).
 
 <ul>
 <li>
+N. Faria, J. Pereira, A. Alonso, R. Vilaça, Y. Koning, and N. Nes.
+TiQuE: Improving the transactional performance of analytical systems for true hybrid workloads.
+<cite>Proc. VLDB Endow.</cite>, 16(9), May 2023.
+(<a href="http://vldb.org/pvldb/volumes/16/paper/TiQuE%3A%20Improving%20the%20Transactional%20Performance%20of%20Analytical%20Systems%20for%20True%20Hybrid%20Workloads">doi:10.14778/3598581.3598598</a>)
+</li>
+<li>
 N. Faria and
   J. Pereira.
 MRVs: Enforcing numeric invariants in parallel updates to hotspots with
