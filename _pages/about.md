@@ -20,11 +20,11 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 
 All [news](/news/).
 
-## Current projects
+## Recent projects
 
 - [AIDA: Adaptive, Intelligent and Distributed Assurance Platform](https://aida.inesctec.pt/)
 
-All [past projects](/projects/).
+All [projects](/projects/).
 
 ## Selected publications
 
