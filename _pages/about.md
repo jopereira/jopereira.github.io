@@ -20,12 +20,6 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 
 All [news](/news/).
 
-## Recent projects
-
-- [AIDA: Adaptive, Intelligent and Distributed Assurance Platform](https://aida.inesctec.pt/)
-
-All [projects](/projects/).
-
 ## Selected publications
 
 <ul>
@@ -99,12 +93,19 @@ In <cite>IEEE/IFIP International Conference on Dependable Systems and
 
 All [publications](/publications/).
 
+## Recent projects
+
+- [EUMaster4HPC: European Master For High Performance Computing](https://eumaster4hpc.uni.lu/)
+- [AIDA: Adaptive, Intelligent and Distributed Assurance Platform](https://aida.inesctec.pt/)
+
+All [projects](/projects/).
+
 ## Teaching
 
-- [Distributed Systems](https://www4.di.uminho.pt/~jno/sitedi/uc_J305N4.html) (BSc)
-- [Large Scale Distributed Systems](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800006546.html) (MSc)
-- [Distributed Systems Paradigms](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800005182.html) (MSc)
-- [Database Administration](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800005544.html) (MSc)
+- [Distributed Systems](https://www4.di.uminho.pt/~jno/sitedi/uc_J305N4.html) (BSc): An introductory course on concurrent programming and distributed systems.
+- [Large Scale Distributed Systems](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800006546.html) (MSc): An advanced course on distributed systems, with emphasis on large scale data replication and weak consistency.
+- [Distributed Systems Paradigms](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800005182.html) (MSc): An advanced course on concurrent and distributed programming, with emphasis on server scalability.
+- [Database Administration](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800005544.html) (MSc): An advanced course on database systems technology, with an bottom-up approach (storage, transactions, query processing and optimization) and an emphasis on system operation.
 
 ## Recent service
 
