@@ -95,6 +95,7 @@ All [publications](/publications/).
 
 ## Recent projects
 
+- CYBERACTIONING: Training Cybersecurity Skills through Advanced Higher Education Joint Programmes
 - [EUMaster4HPC: European Master For High Performance Computing](https://eumaster4hpc.uni.lu/)
 - [AIDA: Adaptive, Intelligent and Distributed Assurance Platform](https://aida.inesctec.pt/)
 
