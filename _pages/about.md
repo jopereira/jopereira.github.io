@@ -14,7 +14,7 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 
 ## News
 
-- *22/02/2024* Our team got the second place in the 4th edition of the [IN3+ Award](https://premioin3mais.pt/).
+- *22/02/2024* Our team got the second place in the 4th edition of the [IN3+ Award](https://premioin3mais.pt/vencedor-da-4a-edicao-do-premio-in3/).
 - *24/07/2023* Our paper "Loom: A Closed-Box Disaggregated Database System" has been accepted at [LADC'2023](https://ladc.sbc.org.br/2023/).
 - *21/07/2023* Our paper "Towards MRAM Byte-Addressable Persistent Memory in Edge Database Systems" has been accepted at [ADMS'2023](https://www.adms-conf.org/) (with VLDB).
 
