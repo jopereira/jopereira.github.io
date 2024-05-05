@@ -114,7 +114,7 @@ All [projects](/projects/).
 <ul>
 <li><a href="https://issre.github.io/2024/">ISSRE 2024</a>: 35th International Symp. on Software Reliability Engineering (PC)</li>
 <li><a href="https://2024.eurosys.org/euroDW.html">EuroDW 2024</a>: EuroSys Doctoral Workshop 2024 (PC)</li>
-<li><a href="https://issre2023.github.io/">ISSRE 2023</a>: 34th International Symp. on Software Reliability Engineering (PC)</li>
+<li><a href="https://issre.github.io/2023/">ISSRE 2023</a>: 34th International Symp. on Software Reliability Engineering (PC)</li>
 <li><a href="https://webdiis.unizar.es/EDCC22/">EDCC 2022</a>: 18th European Dependable Computing Conference (Student Forum PC)</li>
 <li><a href="https://ladc.sbc.org.br/">LADC 2022</a>: 11th Latin-American Symp. on Dependable Computing (PC Co-Chair)</li>
 <li><a href="https://issre2022.github.io/">ISSRE 2022</a>: 33rd International Symp. on Software Reliability Engineering (PC)</li>
