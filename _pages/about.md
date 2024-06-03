@@ -112,6 +112,7 @@ All [projects](/projects/).
 ## Recent service
 
 <ul>
+<li><a href="http://inforum.org.pt/INForum2024">INFORUM 2024</a>: INFORUM - Simpósio de Informática - CPDLA (PC)</li>
 <li><a href="https://issre.github.io/2024/">ISSRE 2024</a>: 35th International Symp. on Software Reliability Engineering (PC)</li>
 <li><a href="https://2024.eurosys.org/euroDW.html">EuroDW 2024</a>: EuroSys Doctoral Workshop 2024 (PC)</li>
 <li><a href="https://issre.github.io/2023/">ISSRE 2023</a>: 34th International Symp. on Software Reliability Engineering (PC)</li>
