@@ -13,10 +13,11 @@ I am a Senior Researcher at the [High-Assurance Software Laboratory](https://www
 My work focuses on **dependable distributed systems**. I am interested mainly in **data management**, including storage systems, replication and transactions, polyglot systems and polystores (see [CloudMdsQL](http://dx.doi.org/10.1007/s10619-015-7185-y) and [TiQuE](http://vldb.org/pvldb/volumes/16/paper/TiQuE%3A%20Improving%20the%20Transactional%20Performance%20of%20Analytical%20Systems%20for%20True%20Hybrid%20Workloads)), and in **group communication**, including consensus and gossip-based protocols for large-scale systems (see [HyParView](http://dx.doi.org/10.1109/DSN.2007.56) and [PlumTree](http://dx.doi.org/10.1109/SRDS.2007.27)). I am also interested in tools for testing, evaluating, and monitoring distributed systems.
 
 ## News
-
-- *18/07/2024* Our paper "When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection" has been accepted at VLDB'2024.
+- *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
+Visiting Faculty and Researchers Program](https://cmuportugal.org/media/cmu-portugal-will-be-hosting-18-research-visitors-to-carnegie-mellon-in-2024/).
+- *18/07/2024* Our paper "When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection" has been accepted at [VLDB'2024](https://vldb.org/2024/?program-schedule).
 - *14/06/2024* Invited talk at [SiMoD Workshop](https://sfu-dis.github.io/simod/keynote_and_invited.html) (with [SIGMOD/PODS 2024](https://2024.sigmod.org/)).
-- *05/06/2024* Our paper "Databases in Edge and Fog Environments : A Survey" has been acceted at ACM CSUR.
+- *05/06/2024* Our paper "Databases in Edge and Fog Environments : A Survey" has been acceted at [ACM CSUR](https://dl.acm.org/doi/10.1145/3666001).
 - *22/02/2024* Our team got the second place in the 4th edition of the [IN3+ Award](https://premioin3mais.pt/vencedor-da-4a-edicao-do-premio-in3/).
 
 Old [news](/news/).
@@ -104,25 +105,19 @@ All [projects](/projects/).
 
 ## Teaching
 
-- [Distributed Systems](https://www4.di.uminho.pt/~jno/sitedi/uc_J305N4.html) (BSc): An introductory course on concurrent programming and distributed systems.
-- [Large Scale Distributed Systems](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800006546.html) (MSc): An advanced course on distributed systems, with emphasis on large scale data replication and weak consistency.
-- [Distributed Systems Paradigms](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800005182.html) (MSc): An advanced course on concurrent and distributed programming, with emphasis on server scalability.
-- [Database Administration](https://www4.di.uminho.pt/~jno/sitedi/uc_ME78ME7800005544.html) (MSc): An advanced course on database systems technology, with an bottom-up approach (storage, transactions, query processing and optimization) and an emphasis on system operation.
+- [Distributed Systems](https://di.uminho.pt/~jno/sitedi/uc_J305N4.html) (BSc): An introductory course on concurrent programming and distributed systems.
+- [Large Scale Distributed Systems](https://di.uminho.pt/~jno/sitedi/uc_ME78ME7800006546.html) (MSc): An advanced course on distributed systems, with emphasis on large scale data replication and weak consistency.
+- [Distributed Systems Paradigms](https://di.uminho.pt/~jno/sitedi/uc_ME78ME7800005182.html) (MSc): An advanced course on concurrent and distributed programming, with emphasis on server scalability.
+- [Database Administration](https://di.uminho.pt/~jno/sitedi/uc_ME78ME7800005544.html) (MSc): An advanced course on database systems technology, with an bottom-up approach (storage, transactions, query processing and optimization) and an emphasis on system operation.
 
 ## Recent service
 
 <ul>
+<li><a href="https://dsn2025.github.io/">DSN 2025</a>: 55th IEEE/IFIP International Conf. on Dependable Systems and Networks (PC)</li>
 <li><a href="http://inforum.org.pt/INForum2024">INFORUM 2024</a>: INFORUM - Simpósio de Informática - CPDLA (PC)</li>
 <li><a href="https://issre.github.io/2024/">ISSRE 2024</a>: 35th International Symp. on Software Reliability Engineering (PC)</li>
 <li><a href="https://2024.eurosys.org/euroDW.html">EuroDW 2024</a>: EuroSys Doctoral Workshop 2024 (PC)</li>
 <li><a href="https://issre.github.io/2023/">ISSRE 2023</a>: 34th International Symp. on Software Reliability Engineering (PC)</li>
-<li><a href="https://webdiis.unizar.es/EDCC22/">EDCC 2022</a>: 18th European Dependable Computing Conference (Student Forum PC)</li>
-<li><a href="https://ladc.sbc.org.br/">LADC 2022</a>: 11th Latin-American Symp. on Dependable Computing (PC Co-Chair)</li>
-<li><a href="https://issre2022.github.io/">ISSRE 2022</a>: 33rd International Symp. on Software Reliability Engineering (PC)</li>
-<li><a href="https://srds-conference.org/">SRDS 2022</a>: 41st International Symp. on Reliable Distributed Systems (PhD Forum Co-Chair)</li>
-<li><a href="https://dsn2022.github.io/">DSN 2022</a>: 52nd IEEE/IFIP International Conf. on Dependable Systems and Networks (PC)</li>
-<li><a href="https://www.discotec.org/2022/dais">DAIS with DISCOTEC 2022</a>: 22nd International Conf. on Distributed Applications and Interoperable Systems (PC)</li>
-<li><a href="https://www.dedisys.org/sac22/">ACM SAC DADS 2022</a>: 37th ACM SAC Dependable and Adaptive Distributed Systems Track (PC)</li>
 </ul>
 
 All [past service](/service/).
