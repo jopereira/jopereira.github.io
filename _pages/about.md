@@ -15,9 +15,9 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 ## News
 - *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
 Visiting Faculty and Researchers Program](https://cmuportugal.org/media/cmu-portugal-will-be-hosting-18-research-visitors-to-carnegie-mellon-in-2024/).
-- *18/07/2024* Our paper "When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection" has been accepted at [VLDB'2024](https://vldb.org/2024/?program-schedule).
+- *18/07/2024* Our paper ["When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"](https://www.vldb.org/pvldb/vol17/p3017-ramos.pdf) has been accepted at [VLDB'2024](https://vldb.org/2024/?program-schedule).
 - *14/06/2024* Invited talk at [SiMoD Workshop](https://sfu-dis.github.io/simod/keynote_and_invited.html) (with [SIGMOD/PODS 2024](https://2024.sigmod.org/)).
-- *05/06/2024* Our paper "Databases in Edge and Fog Environments : A Survey" has been acceted at [ACM CSUR](https://dl.acm.org/doi/10.1145/3666001).
+- *05/06/2024* Our paper ["Databases in Edge and Fog Environments : A Survey"](https://dl.acm.org/doi/10.1145/3666001) has been acceted at ACM CSUR.
 - *22/02/2024* Our team got the second place in the 4th edition of the [IN3+ Award](https://premioin3mais.pt/vencedor-da-4a-edicao-do-premio-in3/).
 
 Old [news](/news/).
@@ -113,11 +113,12 @@ All [projects](/projects/).
 ## Recent service
 
 <ul>
-<li><a href="https://dsn2025.github.io/">DSN 2025</a>: 55th IEEE/IFIP International Conf. on Dependable Systems and Networks (PC)</li>
-<li><a href="http://inforum.org.pt/INForum2024">INFORUM 2024</a>: INFORUM - Simpósio de Informática - CPDLA (PC)</li>
-<li><a href="https://issre.github.io/2024/">ISSRE 2024</a>: 35th International Symp. on Software Reliability Engineering (PC)</li>
-<li><a href="https://2024.eurosys.org/euroDW.html">EuroDW 2024</a>: EuroSys Doctoral Workshop 2024 (PC)</li>
-<li><a href="https://issre.github.io/2023/">ISSRE 2023</a>: 34th International Symp. on Software Reliability Engineering (PC)</li>
+<li><a href="https://icdcs2025.icdcs.org/">ICDCS 2025</a>: 45th IEEE International Conference on Distributed Computing Systems (PC member)</li>
+<li><a href="https://dsn2025.github.io/">DSN 2025</a>: 55th IEEE/IFIP International Conf. on Dependable Systems and Networks (PC member)</li>
+<li><a href="http://inforum.org.pt/INForum2024">INFORUM 2024</a>: INFORUM - Simpósio de Informática - CPDLA (PC member)</li>
+<li><a href="https://issre.github.io/2024/">ISSRE 2024</a>: 35th International Symp. on Software Reliability Engineering (PC member)</li>
+<li><a href="https://2024.eurosys.org/euroDW.html">EuroDW 2024</a>: EuroSys Doctoral Workshop 2024 (PC member)</li>
+<li><a href="https://issre.github.io/2023/">ISSRE 2023</a>: 34th International Symp. on Software Reliability Engineering (PC member)</li>
 </ul>
 
 All [past service](/service/).
