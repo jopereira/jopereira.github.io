@@ -13,11 +13,13 @@ I am a Senior Researcher at the [High-Assurance Software Laboratory](https://www
 My work focuses on **dependable distributed systems**. I am interested mainly in **data management**, including storage systems, replication and transactions, polyglot systems and polystores (see [CloudMdsQL](http://dx.doi.org/10.1007/s10619-015-7185-y) and [TiQuE](http://vldb.org/pvldb/volumes/16/paper/TiQuE%3A%20Improving%20the%20Transactional%20Performance%20of%20Analytical%20Systems%20for%20True%20Hybrid%20Workloads)), and in **group communication**, including consensus and gossip-based protocols for large-scale systems (see [HyParView](http://dx.doi.org/10.1109/DSN.2007.56) and [PlumTree](http://dx.doi.org/10.1109/SRDS.2007.27)). I am also interested in tools for testing, evaluating, and monitoring distributed systems.
 
 ## News
+
+- *01/11/2024* Our paper "CRDV: Conflict-free Replicated Data Views" has been been accepted at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
 - *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
 Visiting Faculty and Researchers Program](https://cmuportugal.org/media/cmu-portugal-will-be-hosting-18-research-visitors-to-carnegie-mellon-in-2024/).
 - *18/07/2024* Our paper ["When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"](https://www.vldb.org/pvldb/vol17/p3017-ramos.pdf) has been accepted at [VLDB'2024](https://vldb.org/2024/?program-schedule).
 - *14/06/2024* Invited talk at [SiMoD Workshop](https://sfu-dis.github.io/simod/keynote_and_invited.html) (with [SIGMOD/PODS 2024](https://2024.sigmod.org/)).
-- *05/06/2024* Our paper ["Databases in Edge and Fog Environments : A Survey"](https://dl.acm.org/doi/10.1145/3666001) has been acceted at ACM CSUR.
+- *05/06/2024* Our paper ["Databases in Edge and Fog Environments : A Survey"](https://dl.acm.org/doi/10.1145/3666001) has been accepted at ACM CSUR.
 - *22/02/2024* Our team got the second place in the 4th edition of the [IN3+ Award](https://premioin3mais.pt/vencedor-da-4a-edicao-do-premio-in3/).
 
 Old [news](/news/).
