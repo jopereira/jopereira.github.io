@@ -110,7 +110,7 @@ All [projects](/projects/).
 - [Distributed Systems](https://di.uminho.pt/~jno/sitedi/uc_J305N4.html) (BSc): An introductory course on concurrent programming and distributed systems.
 - [Large Scale Distributed Systems](https://di.uminho.pt/~jno/sitedi/uc_ME78ME7800006546.html) (MSc): An advanced course on distributed systems, with emphasis on large scale data replication and weak consistency.
 - [Distributed Systems Paradigms](https://di.uminho.pt/~jno/sitedi/uc_ME78ME7800005182.html) (MSc): An advanced course on concurrent and distributed programming, with emphasis on server scalability.
-- [Database Administration](https://di.uminho.pt/~jno/sitedi/uc_ME78ME7800005544.html) (MSc): An advanced course on database systems technology, with an bottom-up approach (storage, transactions, query processing and optimization) and an emphasis on system operation.
+- [Database Administration](https://distributedum.github.io/dba/) (MSc): An advanced course on database systems technology, with a bottom-up approach (storage, transactions, query processing and optimization) and an emphasis on system operation.
 
 ## Recent service
 
