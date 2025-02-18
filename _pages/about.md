@@ -14,7 +14,7 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 
 ## News
 
-- *01/11/2024* Our paper "CRDV: Conflict-free Replicated Data Views" has been been accepted at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
+- *01/11/2024* Our paper ["CRDV: Conflict-free Replicated Data Views"](http://dx.doi.org/10.1145/3709675) has been been accepted at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
 - *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
 Visiting Faculty and Researchers Program](https://cmuportugal.org/media/cmu-portugal-will-be-hosting-18-research-visitors-to-carnegie-mellon-in-2024/).
 - *18/07/2024* Our paper ["When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"](https://www.vldb.org/pvldb/vol17/p3017-ramos.pdf) has been accepted at [VLDB'2024](https://vldb.org/2024/?program-schedule).
