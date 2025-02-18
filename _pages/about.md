@@ -14,6 +14,7 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 
 ## News
 
+- *Upcoming: Fall/2025* We are starting the Master on Advanced Computing and the Master on Cybersecurity degrees at U. Minho.
 - *01/11/2024* Our paper ["CRDV: Conflict-free Replicated Data Views"](http://dx.doi.org/10.1145/3709675) has been been accepted at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
 - *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
 Visiting Faculty and Researchers Program](https://cmuportugal.org/media/cmu-portugal-will-be-hosting-18-research-visitors-to-carnegie-mellon-in-2024/).
@@ -99,7 +100,8 @@ All [publications](/publications/).
 
 ## Recent projects
 
-- CYBERACTIONING: Training Cybersecurity Skills through Advanced Higher Education Joint Programmes
+- [PETALL: Privacy and Transparency for All](https://lnk.bio/petall)
+- [CYBERACTIONING: Training Cybersecurity Skills through Advanced Higher Education Joint Programmes](https://internacional.ugr.es/en/node/997)
 - [EUMaster4HPC: European Master For High Performance Computing](https://eumaster4hpc.uni.lu/)
 - [AIDA: Adaptive, Intelligent and Distributed Assurance Platform](https://aida.inesctec.pt/)
 
