@@ -101,7 +101,7 @@ All [publications](/publications/).
 ## Recent projects
 
 - [PETALL: Privacy and Transparency for All](https://lnk.bio/petall)
-- [CYBERACTIONING: Training Cybersecurity Skills through Advanced Higher Education Joint Programmes](https://internacional.ugr.es/en/node/997)
+- [CYBERACTIONING: Training Cybersecurity Skills through Advanced Higher Education Joint Programmes](https://cyberactioning.eu/)
 - [EUMaster4HPC: European Master For High Performance Computing](https://eumaster4hpc.uni.lu/)
 - [AIDA: Adaptive, Intelligent and Distributed Assurance Platform](https://aida.inesctec.pt/)
 
