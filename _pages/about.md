@@ -14,6 +14,7 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 
 ## News
 
+- *Upcoming:* We are organizing [SRDS'2025 in Oporto!](https://srds-conference.org/)
 - *Upcoming: Fall/2025* We are starting the Master on Advanced Computing and the Master on Cybersecurity degrees at U. Minho.
 - *01/11/2024* Our paper ["CRDV: Conflict-free Replicated Data Views"](http://dx.doi.org/10.1145/3709675) has been been accepted at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
 - *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
