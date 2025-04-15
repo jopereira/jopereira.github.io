@@ -15,14 +15,12 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 ## News
 
 - *Upcoming:* We are organizing [SRDS'2025 in Oporto!](https://srds-conference.org/)
-- *Upcoming: Fall/2025* We are starting the Master on Advanced Computing and the Master on Cybersecurity degrees at U. Minho.
+- *Upcoming: Fall/2025* We are starting the [Master in Advanced Computing](https://mca.di.uminho.pt/) and the [Master in Cybersecurity](https://mcs.di.uminho.pt/) degrees at U. Minho.
+- *Upcoming: Spring/2025* Visiting the [Chair for Decentralized Information Systems and Data Management](https://www.cs.cit.tum.de/dis/home/) in Munich.
+- *15/04/2025* Our paper "Rethinking BFT: Leveraging Diverse Software Components with LLMs" has been been accepted at [DSN Disrupt 2025](https://dsn2025.github.io/).
 - *01/11/2024* Our paper ["CRDV: Conflict-free Replicated Data Views"](http://dx.doi.org/10.1145/3709675) has been been accepted at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
 - *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
 Visiting Faculty and Researchers Program](https://cmuportugal.org/media/cmu-portugal-will-be-hosting-18-research-visitors-to-carnegie-mellon-in-2024/).
-- *18/07/2024* Our paper ["When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"](https://www.vldb.org/pvldb/vol17/p3017-ramos.pdf) has been accepted at [VLDB'2024](https://vldb.org/2024/?program-schedule).
-- *14/06/2024* Invited talk at [SiMoD Workshop](https://sfu-dis.github.io/simod/keynote_and_invited.html) (with [SIGMOD/PODS 2024](https://2024.sigmod.org/)).
-- *05/06/2024* Our paper ["Databases in Edge and Fog Environments : A Survey"](https://dl.acm.org/doi/10.1145/3666001) has been accepted at ACM CSUR.
-- *22/02/2024* Our team got the second place in the 4th edition of the [IN3+ Award](https://premioin3mais.pt/vencedor-da-4a-edicao-do-premio-in3/).
 
 Old [news](/news/).
 
@@ -62,12 +60,6 @@ In <cite>2021 51st Annual IEEE/IFIP International Conference on Dependable
   Systems and Networks (DSN)</cite>, pages 212–223, 2021.
 (<a href="http://dx.doi.org/10.1109/DSN48987.2021.00035">doi:10.1109/DSN48987.2021.00035</a>)
 </li>
-<li>R. Macedo,
-  J. Paulo, J. Pereira, and
-  A. Bessani.
-A survey and classification of software-defined storage systems.
-<cite>ACM Computing Surveys</cite>, 2020.
-(<a href="http://dx.doi.org/10.1145/3385896">doi:10.1145/3385896</a>)</li>
 <li>
 B. Kolev,
   P. Valduriez, C. Bondiombouy,
@@ -118,12 +110,10 @@ All [projects](/projects/).
 ## Recent service
 
 <ul>
-<li><a href="https://icdcs2025.icdcs.org/">ICDCS 2025</a>: 45th IEEE International Conference on Distributed Computing Systems (PC member)</li>
+<li><a href="https://srds-conference.org/">SRDS 2025</a>: 44th International Symp. on Reliable Distributed Systems (General Co-Chair)</li>
+<li><a href="https://issre.github.io/2025/">ISSRE 2025</a>: 36th International Symp. on Software Reliability Engineering (PC member)</li>
+<li><a href="https://icdcs2025.icdcs.org/">ICDCS 2025</a>: 45th IEEE International Conf. on Distributed Computing Systems (PC member)</li>
 <li><a href="https://dsn2025.github.io/">DSN 2025</a>: 55th IEEE/IFIP International Conf. on Dependable Systems and Networks (PC member)</li>
-<li><a href="http://inforum.org.pt/INForum2024">INFORUM 2024</a>: INFORUM - Simpósio de Informática - CPDLA (PC member)</li>
-<li><a href="https://issre.github.io/2024/">ISSRE 2024</a>: 35th International Symp. on Software Reliability Engineering (PC member)</li>
-<li><a href="https://2024.eurosys.org/euroDW.html">EuroDW 2024</a>: EuroSys Doctoral Workshop 2024 (PC member)</li>
-<li><a href="https://issre.github.io/2023/">ISSRE 2023</a>: 34th International Symp. on Software Reliability Engineering (PC member)</li>
 </ul>
 
 All [past service](/service/).
