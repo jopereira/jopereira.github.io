@@ -17,8 +17,8 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 - *Upcoming:* We are organizing [SRDS'2025 in Oporto!](https://srds-conference.org/)
 - *Upcoming: Fall/2025* We are starting the [Master in Advanced Computing](https://mca.di.uminho.pt/) and the [Master in Cybersecurity](https://mcs.di.uminho.pt/) degrees at U. Minho.
 - *Upcoming: Spring/2025* Visiting the [Chair for Decentralized Information Systems and Data Management](https://www.cs.cit.tum.de/dis/home/) in Munich.
+- *23/04/2025* Our paper ["CRDV: Conflict-free Replicated Data Views"](http://dx.doi.org/10.1145/3709675) has [received an **Honorable Mention**](https://2025.sigmod.org/sigmod_awards.shtml) at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
 - *15/04/2025* Our paper "Rethinking BFT: Leveraging Diverse Software Components with LLMs" has been been accepted at [DSN Disrupt 2025](https://dsn2025.github.io/).
-- *01/11/2024* Our paper ["CRDV: Conflict-free Replicated Data Views"](http://dx.doi.org/10.1145/3709675) has been been accepted at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
 - *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
 Visiting Faculty and Researchers Program](https://cmuportugal.org/media/cmu-portugal-will-be-hosting-18-research-visitors-to-carnegie-mellon-in-2024/).
 
