@@ -22,13 +22,12 @@ author_profile: true
 
 ## M.Sc.
 
-- [Luis Silva](https://www.inesctec.pt/en/people/luis-manuel-silva)
 - [Rui Braga](https://www.inesctec.pt/en/people/rui-miguel-braga)
-- [Pedro Sousa](https://www.inesctec.pt/pt/pessoas/pedro-alexandre-sousa)
 - [Mariana Rodrigues](https://www.inesctec.pt/en/people/mariana-dinis-rodrigues)
-- [Matilde Bravo](https://www.inesctec.pt/pt/pessoas/matilde-pizarro-bravo)
-- [Gonçalo Santos](https://www.inesctec.pt/en/people/goncalo-couto-dos-santos)
-- Gonçalo Freitas
+- [Pedro Sousa](https://www.inesctec.pt/pt/pessoas/pedro-alexandre-sousa)
+- [Luis Silva](https://www.inesctec.pt/en/people/luis-manuel-silva) (2025)
+- [Gonçalo Santos](https://www.inesctec.pt/en/people/goncalo-couto-dos-santos) (2025)
+- Gonçalo Freitas (2025)
 - [João Imperadeiro](https://www.inesctec.pt/en/people/joao-ribeiro-imperadeiro) (2025)
 - Bruno Dias (2024)
 - [Adriano Maior](https://www.inesctec.pt/pt/pessoas/adriano-novo-maior) (2024)
