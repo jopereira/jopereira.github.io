@@ -96,6 +96,7 @@ All [publications](/publications/).
 
 ## Recent projects
 
+- ADAPQO: Adaptive Query Optimization Architectures to Support Heterogeneous Data Intensive Applications
 - [PETALL: Privacy and Transparency for All](https://lnk.bio/petall)
 - [CYBERACTIONING: Training Cybersecurity Skills through Advanced Higher Education Joint Programmes](https://cyberactioning.eu/)
 - [EUMaster4HPC: European Master For High Performance Computing](https://eumaster4hpc.uni.lu/)
@@ -113,6 +114,7 @@ All [projects](/projects/).
 ## Recent service
 
 <ul>
+<li><a href="https://2026.sigmod.org/">SIGMOD 2026</a>: ACM SIGMOD International Conf. on Management of Data (PC member)</li>
 <li><a href="https://srds-conference.org/">SRDS 2025</a>: 44th International Symp. on Reliable Distributed Systems (General Co-Chair)</li>
 <li><a href="https://issre.github.io/2025/">ISSRE 2025</a>: 36th International Symp. on Software Reliability Engineering (PC member)</li>
 <li><a href="https://icdcs2025.icdcs.org/">ICDCS 2025</a>: 45th IEEE International Conf. on Distributed Computing Systems (PC member)</li>
