@@ -15,7 +15,7 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 ## News
 
 - *29/09/2025* We are organizing [SRDS'2025 in Oporto!](https://srds-conference.org/)
-- *08/09/2025* Talking at the [Third Summer School on
+- *08/09/2025* Talking at the [Third ACM Europe Summer School on
 Distributed and Replicated Environments (DARE 2025)](https://dare-lisbon.github.io/).
 - *Fall/2025* We are starting the [Master in Advanced Computing](https://mca.di.uminho.pt/) and the [Master in Cybersecurity](https://mcs.di.uminho.pt/) degrees at U. Minho.
 - *13/06/2025* ADAPQO has been selected for funding by the [CMU Portugal 2024 Call for Exploratory Projects](https://cmuportugal.org/media/eight-new-exploratory-projects-selected-under-the-cmu-portugal-2024-call/).
@@ -115,6 +115,7 @@ All [projects](/projects/).
 ## Recent service
 
 <ul>
+<li><a href="https://middleware-conf.github.io/2026/">Middleware 2026</a>: 27th ACM/IFIP International Middleware Conference (PC member)</li>
 <li><a href="https://2026.sigmod.org/">SIGMOD 2026</a>: ACM SIGMOD International Conf. on Management of Data (PC member)</li>
 <li><a href="https://srds-conference.org/">SRDS 2025</a>: 44th International Symp. on Reliable Distributed Systems (General Co-Chair)</li>
 <li><a href="https://issre.github.io/2025/">ISSRE 2025</a>: 36th International Symp. on Software Reliability Engineering (PC member)</li>
