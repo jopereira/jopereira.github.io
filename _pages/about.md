@@ -115,6 +115,7 @@ All [projects](/projects/).
 ## Recent service
 
 <ul>
+<li><a href="https://dsn2026.github.io/">DSN 2026</a>: 56th IEEE/IFIP International Conf. on Dependable Systems and Networks (PC Member and Publicity Co-Chair)</li>
 <li><a href="https://middleware-conf.github.io/2026/">Middleware 2026</a>: 27th ACM/IFIP International Middleware Conference (PC member)</li>
 <li><a href="https://2026.sigmod.org/">SIGMOD 2026</a>: ACM SIGMOD International Conf. on Management of Data (PC member)</li>
 <li><a href="https://srds-conference.org/">SRDS 2025</a>: 44th International Symp. on Reliable Distributed Systems (General Co-Chair)</li>
