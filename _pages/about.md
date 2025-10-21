@@ -18,7 +18,7 @@ My work focuses on **dependable distributed systems**. I am interested mainly in
 - *08/09/2025* Talking at the [Third ACM Europe Summer School on
 Distributed and Replicated Environments (DARE 2025)](https://dare-lisbon.github.io/).
 - *Fall/2025* We are starting the [Master in Advanced Computing](https://mca.di.uminho.pt/) and the [Master in Cybersecurity](https://mcs.di.uminho.pt/) degrees at U. Minho.
-- *13/06/2025* [ADAPQO](ihttps://dbr-haslab.github.io/adapqo/) has been selected for funding by the [CMU Portugal 2024 Call for Exploratory Projects](https://cmuportugal.org/media/eight-new-exploratory-projects-selected-under-the-cmu-portugal-2024-call/).
+- *13/06/2025* [ADAPQO](https://dbr-haslab.github.io/adapqo/) has been selected for funding by the [CMU Portugal 2024 Call for Exploratory Projects](https://cmuportugal.org/media/eight-new-exploratory-projects-selected-under-the-cmu-portugal-2024-call/).
 - *Spring/2025* Visiting the [Chair for Decentralized Information Systems and Data Management](https://www.cs.cit.tum.de/dis/home/) in Munich.
 - *23/04/2025* Our paper ["CRDV: Conflict-free Replicated Data Views"](http://dx.doi.org/10.1145/3709675) has [received an **Honorable Mention**](https://2025.sigmod.org/sigmod_awards.shtml) at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
 - *15/04/2025* Our paper "Rethinking BFT: Leveraging Diverse Software Components with LLMs" has been been accepted at [DSN Disrupt 2025](https://dsn2025.github.io/).
