@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Coordinator at the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of [INESC&nbsp;TEC](https://www.inesctec.pt) and [University of Minho](http://www.uminho.pt), and an Associate Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt).
 
-My work focuses on **dependable distributed systems**. I am interested mainly in **data management**, including storage systems, replication and transactions, polyglot systems and polystores (see [CloudMdsQL](http://dx.doi.org/10.1007/s10619-015-7185-y) and [TiQuE](http://vldb.org/pvldb/volumes/16/paper/TiQuE%3A%20Improving%20the%20Transactional%20Performance%20of%20Analytical%20Systems%20for%20True%20Hybrid%20Workloads)), and in **group communication**, including consensus and gossip-based protocols for large-scale systems (see [HyParView](http://dx.doi.org/10.1109/DSN.2007.56) and [PlumTree](http://dx.doi.org/10.1109/SRDS.2007.27)). I am also interested in tools for testing, evaluating, and monitoring distributed systems.
+My work focuses on [distributed databases](https://dbr-haslab.github.io/) and [storage systems](https://dsr-haslab.github.io/). I am interested mainly in **replication and transactions** in HTAP and polyglot systems (see [CRDVs](http://dx.doi.org/10.1145/3709675) and [TiQuE](http://vldb.org/pvldb/volumes/16/paper/TiQuE%3A%20Improving%20the%20Transactional%20Performance%20of%20Analytical%20Systems%20for%20True%20Hybrid%20Workloads)), and in **distributed agreement**, including consensus and gossip-based protocols for large-scale systems (see [HyParView](http://dx.doi.org/10.1109/DSN.2007.56) and [PlumTree](http://dx.doi.org/10.1109/SRDS.2007.27)). I am also interested in tools for testing, evaluating, and monitoring distributed systems (see [Horus](http://dx.doi.org/10.1109/DSN48987.2021.00035) and [LazyFS](http://dx.doi.org/10.14778/3681954.3681980)).
 
 ## News
 
@@ -31,18 +31,27 @@ Old [news](/news/).
 
 <ul>
 <li>
+N. Faria and
+  J. Pereira.
+CRDV: Conflict-free replicated data views.
+<cite>Proc. ACM Manag. Data (SIGMOD)</cite>, 3(1), 2025.
+(<a href="http://dx.doi.org/10.1145/3709675">doi:10.1145/3709675</a>)
+</li>
+<li>
+M. Ramos,
+  J. Azevedo., K. Kingsbury,
+  J. Pereira, T. Esteves,
+  R. Macedo, and J. Paulo.
+When amnesia strikes: Understanding and reproducing data loss bugs with fault
+  injection.
+<cite>Proc. VLDB Endow.</cite>, 17, 2024.
+(<a href="http://dx.doi.org/10.14778/3681954.3681980">doi:10.14778/3681954.3681980</a>)
+</li>
+<li>
 N. Faria, J. Pereira, A. Alonso, R. Vilaça, Y. Koning, and N. Nes.
 TiQuE: Improving the transactional performance of analytical systems for true hybrid workloads.
 <cite>Proc. VLDB Endow.</cite>, 16(9), May 2023.
 (<a href="http://vldb.org/pvldb/volumes/16/paper/TiQuE%3A%20Improving%20the%20Transactional%20Performance%20of%20Analytical%20Systems%20for%20True%20Hybrid%20Workloads">doi:10.14778/3598581.3598598</a>)
-</li>
-<li>
-N. Faria and
-  J. Pereira.
-MRVs: Enforcing numeric invariants in parallel updates to hotspots with
-  randomized splitting.
-<cite>Proc. ACM Manag. Data (SIGMOD)</cite>, 1(1), 2023.
-(<a href="http://dx.doi.org/10.1145/3588723">doi:10.1145/3588723</a>)
 </li>
 <li>R. Macedo,
   Y. Tanimura, J. Haga,
