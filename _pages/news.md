@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+- *Spring/2025* Visiting the [Chair for Decentralized Information Systems and Data Management](https://www.cs.cit.tum.de/dis/home/) in Munich.
+- *23/04/2025* Our paper ["CRDV: Conflict-free Replicated Data Views"](http://dx.doi.org/10.1145/3709675) has [received an **Honorable Mention**](https://2025.sigmod.org/sigmod_awards.shtml) at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
+- *15/04/2025* Our paper "Rethinking BFT: Leveraging Diverse Software Components with LLMs" has been been accepted at [DSN Disrupt 2025](https://dsn2025.github.io/).
+- *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
+Visiting Faculty and Researchers Program](https://cmuportugal.org/media/cmu-portugal-will-be-hosting-18-research-visitors-to-carnegie-mellon-in-2024/).
 - *18/07/2024* Our paper ["When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"](https://www.vldb.org/pvldb/vol17/p3017-ramos.pdf) has been accepted at [VLDB'2024](https://vldb.org/2024/?program-schedule).
 - *14/06/2024* Invited talk at [SiMoD Workshop](https://sfu-dis.github.io/simod/keynote_and_invited.html) (with [SIGMOD/PODS 2024](https://2024.sigmod.org/)).
 - *05/06/2024* Our paper ["Databases in Edge and Fog Environments : A Survey"](https://dl.acm.org/doi/10.1145/3666001) has been accepted at ACM CSUR.

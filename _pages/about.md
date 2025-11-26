@@ -14,16 +14,12 @@ My work focuses on [distributed databases](https://dbr-haslab.github.io/) and [s
 
 ## News
 
+- *14/11/2025* I'm co-chairing [PaPoC'2026](https://papoc-workshop.github.io/2026/) with [EuroSys](https://2026.eurosys.org/).
 - *29/09/2025* We are organizing [SRDS'2025 in Oporto!](https://srds-conference.org/)
 - *08/09/2025* Talking at the [Third ACM Europe Summer School on
 Distributed and Replicated Environments (DARE 2025)](https://dare-lisbon.github.io/).
 - *Fall/2025* We are starting the [Master in Advanced Computing](https://mca.di.uminho.pt/) and the [Master in Cybersecurity](https://mcs.di.uminho.pt/) degrees at U. Minho.
 - *13/06/2025* [ADAPQO](https://dbr-haslab.github.io/adapqo/) has been selected for funding by the [CMU Portugal 2024 Call for Exploratory Projects](https://cmuportugal.org/media/eight-new-exploratory-projects-selected-under-the-cmu-portugal-2024-call/).
-- *Spring/2025* Visiting the [Chair for Decentralized Information Systems and Data Management](https://www.cs.cit.tum.de/dis/home/) in Munich.
-- *23/04/2025* Our paper ["CRDV: Conflict-free Replicated Data Views"](http://dx.doi.org/10.1145/3709675) has [received an **Honorable Mention**](https://2025.sigmod.org/sigmod_awards.shtml) at [ACM SIGMOD'2025](https://2025.sigmod.org/sigmod_papers.shtml).
-- *15/04/2025* Our paper "Rethinking BFT: Leveraging Diverse Software Components with LLMs" has been been accepted at [DSN Disrupt 2025](https://dsn2025.github.io/).
-- *Fall/2024* Visiting the [Carnegie Mellon Database Group](https://db.cs.cmu.edu/) with the [CMU-PT 
-Visiting Faculty and Researchers Program](https://cmuportugal.org/media/cmu-portugal-will-be-hosting-18-research-visitors-to-carnegie-mellon-in-2024/).
 
 Old [news](/news/).
 
@@ -34,7 +30,7 @@ Old [news](/news/).
 N. Faria and
   J. Pereira.
 CRDV: Conflict-free replicated data views.
-<cite>Proc. ACM Manag. Data (SIGMOD)</cite>, 3(1), 2025.
+<cite>Proc. ACM Manag. Data (SIGMOD)</cite>, 3(1), 2025. <b>(Honorable Mention)</b>
 (<a href="http://dx.doi.org/10.1145/3709675">doi:10.1145/3709675</a>)
 </li>
 <li>
@@ -103,22 +99,18 @@ In <cite>IEEE/IFIP International Conference on Dependable Systems and
 
 All [publications](/publications/).
 
-## Recent projects
+## Current projects
 
 - [ADAPQO: Adaptive Query Optimization Architectures to Support Heterogeneous Data Intensive Applications](https://dbr-haslab.github.io/adapqo/)
 - [PETALL: Privacy and Transparency for All](https://lnk.bio/petall)
-- [CYBERACTIONING: Training Cybersecurity Skills through Advanced Higher Education Joint Programmes](https://cyberactioning.eu/)
-- [EUMaster4HPC: European Master For High Performance Computing](https://eumaster4hpc.uni.lu/)
-- [AIDA: Adaptive, Intelligent and Distributed Assurance Platform](https://aida.inesctec.pt/)
 
-All [projects](/projects/).
+More [projects](/projects/).
 
 ## Teaching
 
 - [Distributed Systems](https://distributedum.github.io/ds/) (BSc): An introductory course on concurrent programming and distributed systems.
 - [Database Administration](https://distributedum.github.io/dba/) (MSc): An advanced course on database systems technology, with a bottom-up approach (storage, transactions, query processing and optimization) and an emphasis on system operation.
 - [Distributed Data Processing Environments](https://distributedum.github.io/ddpe/) (BSc): An introductory course on distributed tools and environments for data processing, including topics on cloud computing and security.
-- [Distributed Systems Paradigms](https://di.uminho.pt/~jno/sitedi/uc_ME78ME7800005182.html) (MSc): An advanced course on concurrent and distributed programming, with emphasis on server scalability.
 - [Large Scale Distributed Systems](https://di.uminho.pt/~jno/sitedi/uc_ME78ME7800006546.html) (MSc): An advanced course on distributed systems, with emphasis on large scale data replication and weak consistency.
 
 ## Recent service
@@ -130,10 +122,6 @@ All [projects](/projects/).
 <li><a href="https://dsn2026.github.io/">DSN 2026</a>: 56th IEEE/IFIP International Conf. on Dependable Systems and Networks (PC Member and Publicity Co-Chair)</li>
 <li><a href="https://middleware-conf.github.io/2026/">Middleware 2026</a>: 27th ACM/IFIP International Middleware Conference (PC member)</li>
 <li><a href="https://2026.sigmod.org/">SIGMOD 2026</a>: ACM SIGMOD International Conf. on Management of Data (PC member)</li>
-<li><a href="https://srds-conference.org/">SRDS 2025</a>: 44th International Symp. on Reliable Distributed Systems (General Co-Chair)</li>
-<li><a href="https://issre.github.io/2025/">ISSRE 2025</a>: 36th International Symp. on Software Reliability Engineering (PC member)</li>
-<li><a href="https://icdcs2025.icdcs.org/">ICDCS 2025</a>: 45th IEEE International Conf. on Distributed Computing Systems (PC member)</li>
-<li><a href="https://dsn2025.github.io/">DSN 2025</a>: 55th IEEE/IFIP International Conf. on Dependable Systems and Networks (PC member)</li>
 </ul>
 
 All [past service](/service/).
