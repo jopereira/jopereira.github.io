@@ -119,6 +119,7 @@ More [projects](/projects/).
 <li><a href="https://2027.sigmod.org/">SIGMOD 2027</a>: ACM SIGMOD International Conf. on Management of Data (PC member)</li>
 <li><a href="https://papoc-workshop.github.io/2026/">PaPoC 2026</a>: 13th Workshop on Principles and Practice of Consistency for Distributed Data - with EuroSys (PC Co-Chair)</li>
 <li><a href="https://supercomputing.org/">SC 2026</a>: International Conference for High Performance Computing, Networking, Storage, and Analysis (Workshops and Symposiums Committee Member)</li>
+<li><a href="https://icdcs2026.icdcs.org/">ICDCS 2026</a>: 46th IEEE International Conf. on Distributed Computing Systems (PC member)</li>
 <li><a href="https://dsn2026.github.io/">DSN 2026</a>: 56th IEEE/IFIP International Conf. on Dependable Systems and Networks (PC Member and Publicity Co-Chair)</li>
 <li><a href="https://middleware-conf.github.io/2026/">Middleware 2026</a>: 27th ACM/IFIP International Middleware Conference (PC member)</li>
 <li><a href="https://2026.sigmod.org/">SIGMOD 2026</a>: ACM SIGMOD International Conf. on Management of Data (PC member)</li>

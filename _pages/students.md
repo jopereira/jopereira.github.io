@@ -23,8 +23,8 @@ author_profile: true
 ## M.Sc.
 
 - [Rui Braga](https://www.inesctec.pt/en/people/rui-miguel-braga)
-- [Mariana Rodrigues](https://www.inesctec.pt/en/people/mariana-dinis-rodrigues)
-- [Pedro Sousa](https://www.inesctec.pt/pt/pessoas/pedro-alexandre-sousa)
+- [Mariana Rodrigues](https://www.inesctec.pt/en/people/mariana-dinis-rodrigues) (2025)
+- [Pedro Sousa](https://www.inesctec.pt/pt/pessoas/pedro-alexandre-sousa) (2025)
 - [Luis Silva](https://www.inesctec.pt/en/people/luis-manuel-silva) (2025)
 - [Gonçalo Santos](https://www.inesctec.pt/en/people/goncalo-couto-dos-santos) (2025)
 - Gonçalo Freitas (2025)
