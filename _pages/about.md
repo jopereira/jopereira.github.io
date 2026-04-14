@@ -14,6 +14,7 @@ My work focuses on [distributed databases](https://dbr-haslab.github.io/) and [s
 
 ## News
 
+- *31/03/2026* The artifact for the [CRDVs paper](http://dx.doi.org/10.1145/3709675) has [received an **Honorable Mention** at ACM SIGMOD](https://sigmod.org/sigmod-awards/sigmod-best-artifact-award/).
 - *14/11/2025* I'm co-chairing [PaPoC'2026](https://papoc-workshop.github.io/2026/) with [EuroSys](https://2026.eurosys.org/).
 - *29/09/2025* We are organizing [SRDS'2025 in Oporto!](https://srds-conference.org/)
 - *08/09/2025* Talking at the [Third ACM Europe Summer School on
@@ -116,6 +117,7 @@ More [projects](/projects/).
 ## Recent service
 
 <ul>
+<li><a href="https://2027.eurosys.org/">EuroSys 2027</a>: European Conf. on Computer Systems (PC member)</li>
 <li><a href="https://2027.sigmod.org/">SIGMOD 2027</a>: ACM SIGMOD International Conf. on Management of Data (PC member)</li>
 <li><a href="https://papoc-workshop.github.io/2026/">PaPoC 2026</a>: 13th Workshop on Principles and Practice of Consistency for Distributed Data - with EuroSys (PC Co-Chair)</li>
 <li><a href="https://supercomputing.org/">SC 2026</a>: International Conference for High Performance Computing, Networking, Storage, and Analysis (Workshops and Symposiums Committee Member)</li>
