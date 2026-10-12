@@ -14,14 +14,12 @@ My work focuses on [distributed databases](https://dbr-haslab.github.io/) and [s
 
 ## News
 
-- *01/06/2026* Our paper "Towards Abstractions for Composable Transactional Isolation" has been accepted at the [CDMS workshop with VLDB 2026](https://cdmsworkshop.github.io/2026/acceptedpapers.html).
+- *12/10/2026* Our paper "The Glorious Dead" has been accepted at the [CIDR 2027](https://www.cidrdb.org/cidr2027/papers.html).
+- *05/10/2026* Our paper "A Tale of Scale: Enabling Scalable and Holistic Storage QoS for Exascale HPC Systems" has been accepted at the [Middleware 2026](https://middleware-conf.github.io/2026/program/accepted-paper-list/).
+- *15/09/2026* Our paper ["Reasoning about Transactional Isolation Levels with Isolde"](https://doi.org/10.14778/3849398.3849399) has been accepted at VLDB.
+- *01/06/2026* Our paper ["Towards Abstractions for Composable Transactional Isolation"](https://vldb.org/2026/Workshops/VLDB-Workshops-2026/CDMS/CDMS26_7.pdf) has been accepted at the [CDMS workshop with VLDB 2026](https://cdmsworkshop.github.io/2026/acceptedpapers.html).
 - *01/06/2026* We are presenting a tutorial on CRDTs and Databases at [VLDB 2026](https://vldb.org/2026/).
 - *31/03/2026* The artifact for the [CRDVs paper](http://dx.doi.org/10.1145/3709675) has [received an **Honorable Mention** at ACM SIGMOD](https://sigmod.org/sigmod-awards/sigmod-best-artifact-award/).
-- *14/11/2025* I'm co-chairing [PaPoC'2026](https://papoc-workshop.github.io/2026/) with [EuroSys](https://2026.eurosys.org/).
-- *29/09/2025* We are organizing [SRDS'2025 in Oporto!](https://srds-conference.org/)
-- *08/09/2025* Talking at the [Third ACM Europe Summer School on Distributed and Replicated Environments (DARE 2025)](https://dare-lisbon.github.io/).
-- *Fall/2025* We are starting the [Master in Advanced Computing](https://mca.di.uminho.pt/) and the [Master in Cybersecurity](https://mcs.di.uminho.pt/) degrees at U. Minho.
-- *13/06/2025* [ADAPQO](https://dbr-haslab.github.io/adapqo/) has been selected for funding by the [CMU Portugal 2024 Call for Exploratory Projects](https://cmuportugal.org/media/eight-new-exploratory-projects-selected-under-the-cmu-portugal-2024-call/).
 
 Old [news](/news/).
 
